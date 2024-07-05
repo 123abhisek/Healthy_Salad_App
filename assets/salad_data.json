@@ -1,0 +1,59 @@
+{
+  "salads": [
+    {
+      "name": "Greek Salad",
+      "vegetables": "Tomato, Cucumber, Red Onion, Bell Pepper, Kalamata Olives",
+      "calories": 200,
+      "proteins": 4,
+      "carbohydrates": 15,
+      "image": "assets/images/salad1.png",
+      "category": "Mediterranean",
+      "ingredients": "3 large tomatoes, 1 cucumber, 1 red onion, 1 green bell pepper, 1/2 cup Kalamata olives, 1/2 cup feta cheese, 1/4 cup olive oil, 2 tablespoons red wine vinegar, 1 teaspoon dried oregano, Salt and pepper",
+      "preparation": "Combine chopped tomatoes, sliced cucumber, thinly sliced red onion, and sliced green bell pepper. Add olives and feta cheese. Whisk together olive oil, vinegar, oregano, salt, and pepper. Pour over salad and toss."
+    },
+    {
+      "name": "Caesar Salad",
+      "vegetables": "Romaine Lettuce",
+      "calories": 250,
+      "proteins": 7,
+      "carbohydrates": 12,
+      "image": "assets/images/salad2.png",
+      "category": "Classic",
+      "ingredients": "1 head Romaine lettuce, 1/2 cup croutons, 1/4 cup Parmesan cheese, 1/4 cup Caesar dressing",
+      "preparation": "Combine lettuce and croutons in a bowl. Add Parmesan cheese. Drizzle Caesar dressing and toss to coat. Combine lettuce and croutons in a bowl. Add Parmesan cheese. Drizzle Caesar dressing and toss to coat. Combine lettuce and croutons in a bowl. Add Parmesan cheese. Drizzle Caesar dressing and toss to coat. Combine lettuce and croutons in a bowl. Add Parmesan cheese. Drizzle Caesar dressing and toss to coat. Combine lettuce and croutons in a bowl. Add Parmesan cheese. Drizzle Caesar dressing and toss to coat. Combine lettuce and croutons in a bowl. Add Parmesan cheese. Drizzle Caesar dressing and toss to coat."
+    },
+    {
+      "name": "Caprese Salad",
+      "vegetables": "Tomato, Basil",
+      "calories": 180,
+      "proteins": 6,
+      "carbohydrates": 6,
+      "image": "assets/images/salad3.png",
+      "category": "Italian",
+      "ingredients": "4 large tomatoes, 1 cup fresh basil leaves, 1 ball fresh mozzarella cheese, 1/4 cup balsamic vinegar, 1/4 cup olive oil, Salt and pepper",
+      "preparation": "Arrange tomato slices, basil leaves, and mozzarella on a platter. Drizzle with balsamic vinegar and olive oil. Sprinkle with salt and pepper."
+    },
+    {
+      "name": "Quinoa Salad",
+      "vegetables": "Bell Pepper, Cucumber, Cherry Tomatoes",
+      "calories": 220,
+      "proteins": 8,
+      "carbohydrates": 32,
+      "image": "assets/images/salad4.png",
+      "category": "Healthy",
+      "ingredients": "1 cup quinoa, 1 red bell pepper, 1 cucumber, 1 cup cherry tomatoes, 1/4 cup red onion, 1/4 cup feta cheese, 2 tablespoons olive oil, 1 tablespoon lemon juice, Salt and pepper",
+      "preparation": "Cook quinoa and let it cool. Combine quinoa, diced bell pepper, cucumber, cherry tomatoes, and red onion. Add feta cheese. Whisk together olive oil, lemon juice, salt, and pepper. Pour over salad and toss.Cook quinoa and let it cool. Combine quinoa, diced bell pepper, cucumber, cherry tomatoes, and red onion. Add feta cheese. Whisk together olive oil, lemon juice, salt, and pepper. Pour over salad and toss."
+    },
+    {
+      "name": "Spinach and Strawberry Salad",
+      "vegetables": "Spinach",
+      "calories": 150,
+      "proteins": 3,
+      "carbohydrates": 20,
+      "image": "assets/images/salad3.png",
+      "category": "Fruit",
+      "ingredients": "4 cups fresh spinach, 1 cup strawberries, 1/4 cup sliced almonds, 1/4 cup goat cheese, 2 tablespoons balsamic vinegar, 1 tablespoon honey, 1/4 cup olive oil, Salt and pepper",
+      "preparation": "Combine spinach and sliced strawberries. Add almonds and goat cheese. Whisk together balsamic vinegar, honey, olive oil, salt, and pepper. Pour over salad and toss."
+    }
+  ]
+}
